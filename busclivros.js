@@ -46,6 +46,3 @@ if (entradaInicial.toLocaleLowerCase() === 'categoria') {
 if (entradaInicial.toLocaleLowerCase() === 'todos') {
     console.table(livros);
 }
-else {
-    console.log('Pesquisa inválida!');
-}
