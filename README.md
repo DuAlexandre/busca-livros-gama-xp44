@@ -71,9 +71,6 @@ categoria
 todos
 - Mostra todos os livros do banco de dados.
 ```
-```
-Caso no campo de pesquisa seja digitado algo diferente das opções de pesquisa, a mensagem "Pesquisa Inválida" será apresentada.
-```
 
 <br>
 
@@ -81,3 +78,12 @@ Caso no campo de pesquisa seja digitado algo diferente das opções de pesquisa,
 
 <br>
 
+<img src='./prints/print-1.png'>
+
+<br>
+
+<img src='./prints/print-2.png'>
+
+<br>
+
+<img src='./prints/print-3.png'>
